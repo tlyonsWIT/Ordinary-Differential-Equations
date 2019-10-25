@@ -3,5 +3,3 @@
 
 ### Info:
 This is a first attempt at an online repository for Python scripts useful for investigating various methods used for solving ordinary differential equations (ODEs).
-
-This is the first change made through a branch.
