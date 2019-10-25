@@ -1,0 +1,6 @@
+name: ode-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
